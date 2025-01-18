@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "item": "liquids, gels, aerosols and pastes",
+      "allowed_quantity": "maximum of 3.4 ounces or 100 milliliters",
+      "exemption": "Special provisions for necessary items such as medication, breast milk, and juice or formula for infants"
+    },
+    {
+      "item": "personal items",
+      "allowed_quantity": "1 purse, briefcase, small backpack, camera bag or diaper bag; 1 laptop bag; 1 item of similar or smaller size",
+      "exemption": "Flight attendants can assist with larger items like strollers"
+    },
+    {
+      "item": "free items to carry on",
+      "allowed_quantity": "A jacket and/or umbrella; Food or drink purchased past the security checkpoint; Duty-free merchandise; Special items like strollers, wheelchairs, child safety seats, assistive devices like crutches",
+      "exemption": null
+    }
+  ]
+}
